@@ -8,8 +8,8 @@
 }
 
 body {
-    background-color:  linear-gradient(#9999ff,#ccccff);
-    color:  linear-gradient(#9999ff,#ccccff);
+    background-color:  var(--cor-fundo);
+    color: var(--cor-secundaria);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,6 +42,7 @@ button:hover{
     color: var(--cor-principal);
 
 }
+
 
 
 
