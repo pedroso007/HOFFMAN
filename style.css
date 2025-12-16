@@ -1,8 +1,8 @@
 :root{
-    --cor-fundo:  linear-gradient(#9999ff,#ccccff);
-    --cor-principal:  linear-gradient(#9999ff,#ccccff);
+    --cor-fundo: (#9999ff,#ccccff);
+    --cor-principal:  (#9999ff,#ccccff);
     --cor-secundaria: #212333; 
-    --cor-destaque:  linear-gradient(#9999ff,#ccccff);
+    --cor-destaque: (#9999ff,#ccccff);
     --cor-texto: #D7F9FF;
 
 }
@@ -42,6 +42,7 @@ button:hover{
     color: var(--cor-principal);
 
 }
+
 
 
 
