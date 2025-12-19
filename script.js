@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "vc é o namorado da júlia?: [
+        enunciado: "vc é o namorado da júlia: [
             {
                 texto: "Sim",
                 afirmacao: "Que ótimo "
@@ -97,4 +97,5 @@ function mostraResultado() {
 }
 
 mostraPergunta();
+
 
