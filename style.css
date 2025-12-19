@@ -43,8 +43,10 @@ button:hover{
 
 }
 
-
-
+caix-resultado{
+    background-color: var(--cor-principal);
+    
+}
 
 
 
