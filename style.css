@@ -1,8 +1,8 @@
 :root{
-    --cor-fundo: (#9999ff,#ccccff);
-    --cor-principal:  (#9999ff,#ccccff);
+    --cor-fundo: #9999ff;
+    --cor-principal:  #9999ff;
     --cor-secundaria: #212333; 
-    --cor-destaque: (#9999ff,#ccccff);
+    --cor-destaque: #ccccff;
     --cor-texto: #D7F9FF;
 
 }
@@ -47,6 +47,7 @@ caix-resultado{
     background-color: var(--cor-principal);
     
 }
+
 
 
 
